@@ -12,8 +12,13 @@ The task details are documented in the [SCT_DS_04.pdf](https://github.com/GollaS
 
 ##  Tools & Technologies
 
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Jupyter Notebook
-- Git & GitHub
-- Data Visualization&#8203;:contentReference[oaicite:4]{index=4}
+- Power BI
+- Excel
+- Kaggle
+- Data Visualization
+
+## Learning
+- From this i learned advanced Data Cleaning
+- and learn how to deal with more dat
+- In this task i dealed with 800000 rows and 16 columns
 
