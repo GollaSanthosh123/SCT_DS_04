@@ -19,6 +19,6 @@ The task details are documented in the [SCT_DS_04.pdf](https://github.com/GollaS
 
 ## Learning
 - From this i learned advanced Data Cleaning
-- and learn how to deal with more dat
+- and learn how to deal with more data
 - In this task i dealed with 800000 rows and 16 columns
 
